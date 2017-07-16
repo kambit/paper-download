@@ -3,6 +3,13 @@ Download paper from google scholar.
 
 # Notice: This extension just use for reaserch or study!
 
+# Use
+1, Install it 
+2, Visit https://scholar.google.com
+3, Search
+4, Right click on the title.
+5, You will find the "paper download" in context menu!
+
 # Features / Description
 This extension will help you download paper from google scholar conveniently.
 It download paper from sci-hub.cc. You can also downloas paper from it manually！
